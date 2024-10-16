@@ -10,3 +10,6 @@ Repositorio de produtos: 🆗
 
 Serviço de produto:
     obterTodos, obterPorId, adicionar, atualizar, deletar. 
+
+Controller de Produto
+    obterTodos, obterPorId, adicionar, atualizar, deletar. 
